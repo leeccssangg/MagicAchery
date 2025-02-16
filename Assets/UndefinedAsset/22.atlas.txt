@@ -1,0 +1,18 @@
+22.png
+size:907,907
+filter:Linear,Linear
+pma:true
+skin1/shadow
+bounds:530,2,462,129
+rotate:90
+skin3/body
+bounds:2,422,526,483
+skin3/eye lid 1
+bounds:2,2,495,418
+skin3/head open
+bounds:530,582,373,323
+skin3/wing L 2
+bounds:661,246,201,218
+offsets:0,0,203,218
+skin3/wing R 2
+bounds:530,466,276,114

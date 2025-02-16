@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c929aa69ad084c838e510a1fcf6dc94d, type: 3}
+  m_Name: VenomFangAbility
+  m_EditorClassIdentifier: 
+  <AbilityName>k__BackingField: Venom Fang
+  <AbilityLevel>k__BackingField: 12
+  <AbilityDescriptionFormat>k__BackingField: Poisons a single target, dealing {0}%
+    of your Magic Damage every 0.5 seconds for {1} seconds.
+  <Cooldown>k__BackingField:
+    <Level0>k__BackingField: 10
+    <Level6>k__BackingField: 10
+    <Level12>k__BackingField: 10
+  <DamageDeal>k__BackingField:
+    <Level0>k__BackingField: 30
+    <Level6>k__BackingField: 80
+    <Level12>k__BackingField: 80
+  <Duration>k__BackingField:
+    <Level0>k__BackingField: 5
+    <Level6>k__BackingField: 5
+    <Level12>k__BackingField: 7.5
+  <Arrow>k__BackingField: {fileID: 8773226528396312620, guid: bfdaf607c3aeb6244b69560752a5a8c6, type: 3}

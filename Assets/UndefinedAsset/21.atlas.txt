@@ -1,0 +1,21 @@
+21.png
+size:711,711
+filter:Linear,Linear
+pma:true
+skin1/shadow
+bounds:411,247,462,129
+rotate:90
+skin4/eye 2
+bounds:2,264,407,445
+skin4/feet L
+bounds:542,408,77,84
+skin4/feet R
+bounds:542,322,77,84
+skin4/tail
+bounds:542,494,215,167
+rotate:90
+skin4/wing L 2
+bounds:2,42,220,278
+rotate:90
+skin4/wing R 2
+bounds:282,61,304,184

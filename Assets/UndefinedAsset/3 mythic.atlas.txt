@@ -1,0 +1,23 @@
+3 mythic.png
+size:508,508
+filter:Linear,Linear
+pma:true
+34_Crow Mythic copy
+bounds:2,13,270,242
+Layer 17 copy 66
+bounds:274,201,54,54
+Layer 17 copy 67
+bounds:454,192,45,44
+Layer 17 copy 68
+bounds:454,192,45,44
+Layer 17 copy 69
+bounds:465,319,41,40
+ec05f0a0e4e7c12fbb185ad95bad251d71dc7d91c8e58-eEk7uv_fw658 copy 6
+bounds:2,257,336,249
+staff_lv6
+bounds:340,361,145,148
+rotate:90
+treasure-chest-4
+bounds:274,21,178,178
+trousers_6
+bounds:340,238,123,121

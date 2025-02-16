@@ -1,0 +1,195 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0466d485ab8882844a736c8bc47441da, type: 3}
+  m_Name: DailyQuestConfigs
+  m_EditorClassIdentifier: 
+  dailyQuestConfigs:
+  - id: 0
+    type: 0
+    missionTarget: 1
+    targetAmount: 5
+    reward:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 0
+          exponent: 0
+    description: Kill 5 enemy
+    point: 5
+  - id: 1
+    type: 0
+    missionTarget: 2
+    targetAmount: 5
+    reward:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 0
+          exponent: 0
+    description: Destroy 5 obstacle
+    point: 5
+  - id: 2
+    type: 0
+    missionTarget: 3
+    targetAmount: 5
+    reward:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 0
+          exponent: 0
+    description: Upgrade ATK 5 times
+    point: 5
+  - id: 3
+    type: 0
+    missionTarget: 4
+    targetAmount: 5
+    reward:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 0
+          exponent: 0
+    description: Upgrade HP 5 times
+    point: 5
+  - id: 4
+    type: 0
+    missionTarget: 5
+    targetAmount: 5
+    reward:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 0
+          exponent: 0
+    description: Upgrade MANA 5 times
+    point: 5
+  - id: 5
+    type: 0
+    missionTarget: 6
+    targetAmount: 5
+    reward:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 0
+          exponent: 0
+    description: Upgrade MANA REGEN 5 times
+    point: 5
+  - id: 6
+    type: 0
+    missionTarget: 7
+    targetAmount: 5
+    reward:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 0
+          exponent: 0
+    description: Upgrade WEAPON 5 times
+    point: 5
+  - id: 7
+    type: 0
+    missionTarget: 8
+    targetAmount: 5
+    reward:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 0
+          exponent: 0
+    description: Upgrade SKIN 5 times
+    point: 5
+  - id: 8
+    type: 0
+    missionTarget: 9
+    targetAmount: 5
+    reward:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 0
+          exponent: 0
+    description: Land headshot 5 times
+    point: 15
+  - id: 9
+    type: 0
+    missionTarget: 10
+    targetAmount: 5
+    reward:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 0
+          exponent: 0
+    description: Pass 5 levels
+    point: 15
+  - id: 10
+    type: 0
+    missionTarget: 11
+    targetAmount: 5
+    reward:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 0
+          exponent: 0
+    description: Watch 5 ads
+    point: 15
+  - id: 11
+    type: 0
+    missionTarget: 12
+    targetAmount: 1
+    reward:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 0
+          exponent: 0
+    description: Login to game
+    point: 15
+  questStages:
+  - requiredPoint: 20
+    rewards:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 0
+          exponent: 0
+  - requiredPoint: 40
+    rewards:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 0
+          exponent: 0
+  - requiredPoint: 60
+    rewards:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 0
+          exponent: 0
+  - requiredPoint: 80
+    rewards:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 0
+          exponent: 0
+  - requiredPoint: 100
+    rewards:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 0
+          exponent: 0

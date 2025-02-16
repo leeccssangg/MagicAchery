@@ -1,0 +1,664 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ef6da39a6c34544abc58df4b046c99e, type: 3}
+  m_Name: MonsterGlobalConfig
+  m_EditorClassIdentifier: 
+  <MapConfig>k__BackingField:
+  - <MapId>k__BackingField: 1
+    <Level>k__BackingField: 1
+    <MonsterSpawnProbability>k__BackingField:
+      m_ProbabilityValueList:
+      - m_Object: 0
+        m_Chance: 100
+        m_Percentage: 100
+      - m_Object: 1
+        m_Chance: 0
+        m_Percentage: 0
+      - m_Object: 2
+        m_Chance: 0
+        m_Percentage: 0
+      - m_Object: 3
+        m_Chance: 0
+        m_Percentage: 0
+  - <MapId>k__BackingField: 1
+    <Level>k__BackingField: 2
+    <MonsterSpawnProbability>k__BackingField:
+      m_ProbabilityValueList:
+      - m_Object: 0
+        m_Chance: 87
+        m_Percentage: 0
+      - m_Object: 1
+        m_Chance: 10
+        m_Percentage: 0
+      - m_Object: 2
+        m_Chance: 3
+        m_Percentage: 0
+      - m_Object: 3
+        m_Chance: 0
+        m_Percentage: 0
+  - <MapId>k__BackingField: 1
+    <Level>k__BackingField: 3
+    <MonsterSpawnProbability>k__BackingField:
+      m_ProbabilityValueList:
+      - m_Object: 0
+        m_Chance: 82
+        m_Percentage: 0
+      - m_Object: 1
+        m_Chance: 10
+        m_Percentage: 0
+      - m_Object: 2
+        m_Chance: 5
+        m_Percentage: 0
+      - m_Object: 3
+        m_Chance: 3
+        m_Percentage: 0
+  - <MapId>k__BackingField: 1
+    <Level>k__BackingField: 4
+    <MonsterSpawnProbability>k__BackingField:
+      m_ProbabilityValueList:
+      - m_Object: 0
+        m_Chance: 75
+        m_Percentage: 0
+      - m_Object: 1
+        m_Chance: 10
+        m_Percentage: 0
+      - m_Object: 2
+        m_Chance: 10
+        m_Percentage: 0
+      - m_Object: 3
+        m_Chance: 5
+        m_Percentage: 0
+  - <MapId>k__BackingField: 1
+    <Level>k__BackingField: 5
+    <MonsterSpawnProbability>k__BackingField:
+      m_ProbabilityValueList:
+      - m_Object: 0
+        m_Chance: 70
+        m_Percentage: 0
+      - m_Object: 1
+        m_Chance: 15
+        m_Percentage: 0
+      - m_Object: 2
+        m_Chance: 10
+        m_Percentage: 0
+      - m_Object: 3
+        m_Chance: 5
+        m_Percentage: 0
+  <MonsterPrefab>k__BackingField:
+  - {fileID: 5550434565892565966, guid: 9a1980893c56e134db38b7033eb43a87, type: 3}
+  - {fileID: 5550434565892565966, guid: 59bf08feabd14914aa670d9889aa852e, type: 3}
+  - {fileID: 5550434565892565966, guid: c99301d1b1fd5a3469ccf9ec9fdab38b, type: 3}
+  - {fileID: 5550434565892565966, guid: c7bed7895828831418b6cd4ac1962811, type: 3}
+  <NormalMonsterConfig>k__BackingField:
+  - <MapId>k__BackingField: 1
+    <Level>k__BackingField: 1
+    <PrefabId>k__BackingField: 0
+    <AttackDamage>k__BackingField:
+      coefficient: 11
+      exponent: 0
+    <AttackSpeed>k__BackingField: 1
+    <MovementSpeed>k__BackingField: 2
+    <HitPoint>k__BackingField:
+      coefficient: 100
+      exponent: 0
+    <Experience>k__BackingField:
+      coefficient: 220
+      exponent: 0
+    <Amount>k__BackingField:
+      m_Min: 1
+      m_Max: 1
+    <ResourceDrop>k__BackingField:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 50
+          exponent: 0
+    - <ResourceType>k__BackingField: 100
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 30
+          exponent: 0
+  - <MapId>k__BackingField: 1
+    <Level>k__BackingField: 2
+    <PrefabId>k__BackingField: 0
+    <AttackDamage>k__BackingField:
+      coefficient: 17
+      exponent: 0
+    <AttackSpeed>k__BackingField: 1
+    <MovementSpeed>k__BackingField: 2
+    <HitPoint>k__BackingField:
+      coefficient: 334
+      exponent: 0
+    <Experience>k__BackingField:
+      coefficient: 340
+      exponent: 0
+    <Amount>k__BackingField:
+      m_Min: 1
+      m_Max: 2
+    <ResourceDrop>k__BackingField:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 100
+          exponent: 0
+    - <ResourceType>k__BackingField: 100
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 40
+          exponent: 0
+  - <MapId>k__BackingField: 1
+    <Level>k__BackingField: 3
+    <PrefabId>k__BackingField: 0
+    <AttackDamage>k__BackingField:
+      coefficient: 23
+      exponent: 0
+    <AttackSpeed>k__BackingField: 1
+    <MovementSpeed>k__BackingField: 2
+    <HitPoint>k__BackingField:
+      coefficient: 485
+      exponent: 0
+    <Experience>k__BackingField:
+      coefficient: 460
+      exponent: 0
+    <Amount>k__BackingField:
+      m_Min: 1
+      m_Max: 3
+    <ResourceDrop>k__BackingField:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 150
+          exponent: 0
+    - <ResourceType>k__BackingField: 100
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 50
+          exponent: 0
+  - <MapId>k__BackingField: 1
+    <Level>k__BackingField: 4
+    <PrefabId>k__BackingField: 0
+    <AttackDamage>k__BackingField:
+      coefficient: 29
+      exponent: 0
+    <AttackSpeed>k__BackingField: 1
+    <MovementSpeed>k__BackingField: 2
+    <HitPoint>k__BackingField:
+      coefficient: 648
+      exponent: 0
+    <Experience>k__BackingField:
+      coefficient: 580
+      exponent: 0
+    <Amount>k__BackingField:
+      m_Min: 1
+      m_Max: 4
+    <ResourceDrop>k__BackingField:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 200
+          exponent: 0
+    - <ResourceType>k__BackingField: 100
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 60
+          exponent: 0
+  - <MapId>k__BackingField: 1
+    <Level>k__BackingField: 5
+    <PrefabId>k__BackingField: 0
+    <AttackDamage>k__BackingField:
+      coefficient: 36
+      exponent: 0
+    <AttackSpeed>k__BackingField: 1
+    <MovementSpeed>k__BackingField: 2
+    <HitPoint>k__BackingField:
+      coefficient: 822
+      exponent: 0
+    <Experience>k__BackingField:
+      coefficient: 720
+      exponent: 0
+    <Amount>k__BackingField:
+      m_Min: 1
+      m_Max: 5
+    <ResourceDrop>k__BackingField:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 300
+          exponent: 0
+    - <ResourceType>k__BackingField: 100
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 70
+          exponent: 0
+  <RareMonsterConfig>k__BackingField:
+  - <MapId>k__BackingField: 1
+    <Level>k__BackingField: 1
+    <PrefabId>k__BackingField: 1
+    <AttackDamage>k__BackingField:
+      coefficient: 25
+      exponent: 0
+    <AttackSpeed>k__BackingField: 1
+    <MovementSpeed>k__BackingField: 1
+    <HitPoint>k__BackingField:
+      coefficient: 226
+      exponent: 0
+    <Experience>k__BackingField:
+      coefficient: 500
+      exponent: 0
+    <Amount>k__BackingField:
+      m_Min: 1
+      m_Max: 1
+    <ResourceDrop>k__BackingField:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 150
+          exponent: 0
+    - <ResourceType>k__BackingField: 101
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 10
+          exponent: 0
+  - <MapId>k__BackingField: 1
+    <Level>k__BackingField: 2
+    <PrefabId>k__BackingField: 1
+    <AttackDamage>k__BackingField:
+      coefficient: 42
+      exponent: 0
+    <AttackSpeed>k__BackingField: 1
+    <MovementSpeed>k__BackingField: 1
+    <HitPoint>k__BackingField:
+      coefficient: 416
+      exponent: 0
+    <Experience>k__BackingField:
+      coefficient: 840
+      exponent: 0
+    <Amount>k__BackingField:
+      m_Min: 1
+      m_Max: 2
+    <ResourceDrop>k__BackingField:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 300
+          exponent: 0
+    - <ResourceType>k__BackingField: 101
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 13
+          exponent: 0
+  - <MapId>k__BackingField: 1
+    <Level>k__BackingField: 3
+    <PrefabId>k__BackingField: 1
+    <AttackDamage>k__BackingField:
+      coefficient: 61
+      exponent: 0
+    <AttackSpeed>k__BackingField: 1
+    <MovementSpeed>k__BackingField: 1
+    <HitPoint>k__BackingField:
+      coefficient: 640
+      exponent: 0
+    <Experience>k__BackingField:
+      coefficient: 1220
+      exponent: 0
+    <Amount>k__BackingField:
+      m_Min: 1
+      m_Max: 3
+    <ResourceDrop>k__BackingField:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 450
+          exponent: 0
+    - <ResourceType>k__BackingField: 101
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 16
+          exponent: 0
+  - <MapId>k__BackingField: 1
+    <Level>k__BackingField: 4
+    <PrefabId>k__BackingField: 1
+    <AttackDamage>k__BackingField:
+      coefficient: 81
+      exponent: 0
+    <AttackSpeed>k__BackingField: 1
+    <MovementSpeed>k__BackingField: 1
+    <HitPoint>k__BackingField:
+      coefficient: 894
+      exponent: 0
+    <Experience>k__BackingField:
+      coefficient: 1620
+      exponent: 0
+    <Amount>k__BackingField:
+      m_Min: 1
+      m_Max: 4
+    <ResourceDrop>k__BackingField:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 600
+          exponent: 0
+    - <ResourceType>k__BackingField: 101
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 20
+          exponent: 0
+  - <MapId>k__BackingField: 1
+    <Level>k__BackingField: 5
+    <PrefabId>k__BackingField: 1
+    <AttackDamage>k__BackingField:
+      coefficient: 103
+      exponent: 0
+    <AttackSpeed>k__BackingField: 1
+    <MovementSpeed>k__BackingField: 1
+    <HitPoint>k__BackingField:
+      coefficient: 1176
+      exponent: 0
+    <Experience>k__BackingField:
+      coefficient: 2060
+      exponent: 0
+    <Amount>k__BackingField:
+      m_Min: 1
+      m_Max: 5
+    <ResourceDrop>k__BackingField:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 900
+          exponent: 0
+    - <ResourceType>k__BackingField: 101
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 25
+          exponent: 0
+  <EpicMonsterConfig>k__BackingField:
+  - <MapId>k__BackingField: 1
+    <Level>k__BackingField: 1
+    <PrefabId>k__BackingField: 2
+    <AttackDamage>k__BackingField:
+      coefficient: 32
+      exponent: 0
+    <AttackSpeed>k__BackingField: 1
+    <MovementSpeed>k__BackingField: 1
+    <HitPoint>k__BackingField:
+      coefficient: 320
+      exponent: 0
+    <Experience>k__BackingField:
+      coefficient: 640
+      exponent: 0
+    <Amount>k__BackingField:
+      m_Min: 1
+      m_Max: 1
+    <ResourceDrop>k__BackingField:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 300
+          exponent: 0
+    - <ResourceType>k__BackingField: 102
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 5
+          exponent: 0
+  - <MapId>k__BackingField: 1
+    <Level>k__BackingField: 2
+    <PrefabId>k__BackingField: 2
+    <AttackDamage>k__BackingField:
+      coefficient: 65
+      exponent: 0
+    <AttackSpeed>k__BackingField: 1
+    <MovementSpeed>k__BackingField: 1
+    <HitPoint>k__BackingField:
+      coefficient: 720
+      exponent: 0
+    <Experience>k__BackingField:
+      coefficient: 1300
+      exponent: 0
+    <Amount>k__BackingField:
+      m_Min: 1
+      m_Max: 2
+    <ResourceDrop>k__BackingField:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 600
+          exponent: 0
+    - <ResourceType>k__BackingField: 102
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 6
+          exponent: 0
+  - <MapId>k__BackingField: 1
+    <Level>k__BackingField: 3
+    <PrefabId>k__BackingField: 2
+    <AttackDamage>k__BackingField:
+      coefficient: 106
+      exponent: 0
+    <AttackSpeed>k__BackingField: 1
+    <MovementSpeed>k__BackingField: 1
+    <HitPoint>k__BackingField:
+      coefficient: 1280
+      exponent: 0
+    <Experience>k__BackingField:
+      coefficient: 2120
+      exponent: 0
+    <Amount>k__BackingField:
+      m_Min: 1
+      m_Max: 3
+    <ResourceDrop>k__BackingField:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 900
+          exponent: 0
+    - <ResourceType>k__BackingField: 102
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 8
+          exponent: 0
+  - <MapId>k__BackingField: 1
+    <Level>k__BackingField: 4
+    <PrefabId>k__BackingField: 2
+    <AttackDamage>k__BackingField:
+      coefficient: 154
+      exponent: 0
+    <AttackSpeed>k__BackingField: 1
+    <MovementSpeed>k__BackingField: 1
+    <HitPoint>k__BackingField:
+      coefficient: 2000
+      exponent: 0
+    <Experience>k__BackingField:
+      coefficient: 3080
+      exponent: 0
+    <Amount>k__BackingField:
+      m_Min: 1
+      m_Max: 4
+    <ResourceDrop>k__BackingField:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 1200
+          exponent: 0
+    - <ResourceType>k__BackingField: 102
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 10
+          exponent: 0
+  - <MapId>k__BackingField: 1
+    <Level>k__BackingField: 5
+    <PrefabId>k__BackingField: 2
+    <AttackDamage>k__BackingField:
+      coefficient: 210
+      exponent: 0
+    <AttackSpeed>k__BackingField: 1
+    <MovementSpeed>k__BackingField: 1
+    <HitPoint>k__BackingField:
+      coefficient: 2880
+      exponent: 0
+    <Experience>k__BackingField:
+      coefficient: 4200
+      exponent: 0
+    <Amount>k__BackingField:
+      m_Min: 1
+      m_Max: 5
+    <ResourceDrop>k__BackingField:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 1800
+          exponent: 0
+    - <ResourceType>k__BackingField: 102
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 13
+          exponent: 0
+  <BossMonsterConfig>k__BackingField:
+  - <MapId>k__BackingField: 1
+    <Level>k__BackingField: 1
+    <PrefabId>k__BackingField: 3
+    <AttackDamage>k__BackingField:
+      coefficient: 70
+      exponent: 0
+    <AttackSpeed>k__BackingField: 1
+    <MovementSpeed>k__BackingField: 1
+    <HitPoint>k__BackingField:
+      coefficient: 1.28
+      exponent: 1
+    <Experience>k__BackingField:
+      coefficient: 1.4
+      exponent: 1
+    <Amount>k__BackingField:
+      m_Min: 1
+      m_Max: 1
+    <ResourceDrop>k__BackingField:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 600
+          exponent: 0
+    - <ResourceType>k__BackingField: 103
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 2
+          exponent: 0
+  - <MapId>k__BackingField: 1
+    <Level>k__BackingField: 2
+    <PrefabId>k__BackingField: 3
+    <AttackDamage>k__BackingField:
+      coefficient: 217
+      exponent: 0
+    <AttackSpeed>k__BackingField: 1
+    <MovementSpeed>k__BackingField: 1
+    <HitPoint>k__BackingField:
+      coefficient: 6.48
+      exponent: 1
+    <Experience>k__BackingField:
+      coefficient: 4.34
+      exponent: 1
+    <Amount>k__BackingField:
+      m_Min: 1
+      m_Max: 1
+    <ResourceDrop>k__BackingField:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 1200
+          exponent: 0
+    - <ResourceType>k__BackingField: 103
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 3
+          exponent: 0
+  - <MapId>k__BackingField: 1
+    <Level>k__BackingField: 3
+    <PrefabId>k__BackingField: 3
+    <AttackDamage>k__BackingField:
+      coefficient: 485
+      exponent: 0
+    <AttackSpeed>k__BackingField: 1
+    <MovementSpeed>k__BackingField: 1
+    <HitPoint>k__BackingField:
+      coefficient: 20.48
+      exponent: 1
+    <Experience>k__BackingField:
+      coefficient: 9.7
+      exponent: 1
+    <Amount>k__BackingField:
+      m_Min: 1
+      m_Max: 1
+    <ResourceDrop>k__BackingField:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 1800
+          exponent: 0
+    - <ResourceType>k__BackingField: 103
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 4
+          exponent: 0
+  - <MapId>k__BackingField: 1
+    <Level>k__BackingField: 4
+    <PrefabId>k__BackingField: 3
+    <AttackDamage>k__BackingField:
+      coefficient: 906
+      exponent: 0
+    <AttackSpeed>k__BackingField: 1
+    <MovementSpeed>k__BackingField: 1
+    <HitPoint>k__BackingField:
+      coefficient: 50
+      exponent: 1
+    <Experience>k__BackingField:
+      coefficient: 18.12
+      exponent: 1
+    <Amount>k__BackingField:
+      m_Min: 1
+      m_Max: 1
+    <ResourceDrop>k__BackingField:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 2400
+          exponent: 0
+    - <ResourceType>k__BackingField: 103
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 5
+          exponent: 0
+  - <MapId>k__BackingField: 1
+    <Level>k__BackingField: 5
+    <PrefabId>k__BackingField: 3
+    <AttackDamage>k__BackingField:
+      coefficient: 1.509
+      exponent: 1
+    <AttackSpeed>k__BackingField: 1
+    <MovementSpeed>k__BackingField: 1
+    <HitPoint>k__BackingField:
+      coefficient: 103.68
+      exponent: 1
+    <Experience>k__BackingField:
+      coefficient: 30.18
+      exponent: 1
+    <Amount>k__BackingField:
+      m_Min: 1
+      m_Max: 1
+    <ResourceDrop>k__BackingField:
+    - <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 3600
+          exponent: 0
+    - <ResourceType>k__BackingField: 103
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 6
+          exponent: 0

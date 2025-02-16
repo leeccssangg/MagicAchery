@@ -1,0 +1,1 @@
+Contains text-based assets, such as configuration files.

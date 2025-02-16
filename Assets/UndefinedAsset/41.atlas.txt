@@ -1,0 +1,36 @@
+41.png
+size:1056,1056
+filter:Linear,Linear
+pma:true
+skin1/shadow
+bounds:2,423,462,129
+skin4/Feet L
+bounds:557,21,213,214
+offsets:1,0,215,215
+rotate:90
+skin4/Feet R
+bounds:773,23,211,215
+rotate:90
+skin4/Layer 570
+bounds:466,404,82,148
+skin4/Layer 571
+bounds:158,55,98,145
+rotate:90
+skin4/Layer 572
+bounds:2,33,120,154
+rotate:90
+skin4/Layer 573
+bounds:358,2,195,197
+offsets:0,0,195,198
+skin4/Layer 574
+bounds:358,201,201,197
+rotate:90
+skin4/Wing L 1
+bounds:563,650,402,404
+skin4/Wing R 1
+bounds:563,236,393,412
+skin4/body
+bounds:2,554,559,500
+offsets:0,0,559,524
+skin4/hair
+bounds:2,155,354,266

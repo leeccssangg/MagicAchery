@@ -1,0 +1,19 @@
+18.png
+size:902,902
+filter:Linear,Linear
+pma:true
+skin1/shadow
+bounds:744,2,462,129
+rotate:90
+skin2/body
+bounds:2,416,520,484
+skin2/eye lid 1
+bounds:2,4,487,410
+skin2/head open
+bounds:524,582,367,318
+skin2/wing L 2
+bounds:524,263,201,218
+offsets:0,0,203,218
+rotate:90
+skin2/wing R 2
+bounds:524,466,276,114

@@ -1,0 +1,32 @@
+27.png
+size:841,841
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,135,337,240
+rotate:90
+bbfoot
+bounds:473,158,128,187
+rotate:90
+bffoot
+bounds:466,16,129,187
+rotate:90
+chest 1
+bounds:244,288,184,236
+rotate:90
+chest 2
+bounds:244,147,139,227
+rotate:90
+fbfoot
+bounds:655,3,153,167
+offsets:0,0,156,167
+rotate:90
+fffoot
+bounds:662,280,177,186
+mouth
+bounds:2,474,501,365
+shadow
+bounds:2,4,462,129
+wing
+bounds:505,468,371,233
+rotate:90

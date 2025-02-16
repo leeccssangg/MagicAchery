@@ -1,0 +1,206 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c6b4b3ea3c64076b356ecd26ebd88e4, type: 3}
+  m_Name: TTNC_81_Damage Boss
+  m_EditorClassIdentifier: 
+  <NodeIcon>k__BackingField: {fileID: 21300000, guid: dbc206a3650fedd42b82974c0345540f, type: 3}
+  <NodeId>k__BackingField: 81
+  <NodeName>k__BackingField: Damage Boss
+  <MaxLevelUpgrade>k__BackingField: 10
+  <StatGain>k__BackingField: 0
+  <StatScaleMethod>k__BackingField:
+    rid: 5639821872365568534
+  <ResourceRequire>k__BackingField: 103
+  <ResourceScaleMethod>k__BackingField:
+    rid: 5639821872365568409
+  <Description>k__BackingField: After you critically strike, deal {0}% of the crit's
+    damage to all Enemy.
+  <RequireNode>k__BackingField: 50000000
+  <TalentTreeNodeLevelConfigArray>k__BackingField:
+  - <Level>k__BackingField: 0
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 0
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 103
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 0
+          exponent: 0
+    <Description>k__BackingField: After you critically strike, deal 0% of the crit's
+      damage to all Enemy.
+  - <Level>k__BackingField: 1
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 5
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 103
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 26.5
+          exponent: 1
+    <Description>k__BackingField: After you critically strike, deal 5% of the crit's
+      damage to all Enemy.
+  - <Level>k__BackingField: 2
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 10
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 103
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 28
+          exponent: 1
+    <Description>k__BackingField: After you critically strike, deal 10% of the crit's
+      damage to all Enemy.
+  - <Level>k__BackingField: 3
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 15
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 103
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 29.5
+          exponent: 1
+    <Description>k__BackingField: After you critically strike, deal 15% of the crit's
+      damage to all Enemy.
+  - <Level>k__BackingField: 4
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 20
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 103
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 31
+          exponent: 1
+    <Description>k__BackingField: After you critically strike, deal 20% of the crit's
+      damage to all Enemy.
+  - <Level>k__BackingField: 5
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 25
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 103
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 32.5
+          exponent: 1
+    <Description>k__BackingField: After you critically strike, deal 25% of the crit's
+      damage to all Enemy.
+  - <Level>k__BackingField: 6
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 30
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 103
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 34
+          exponent: 1
+    <Description>k__BackingField: After you critically strike, deal 30% of the crit's
+      damage to all Enemy.
+  - <Level>k__BackingField: 7
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 35
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 103
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 35.5
+          exponent: 1
+    <Description>k__BackingField: After you critically strike, deal 35% of the crit's
+      damage to all Enemy.
+  - <Level>k__BackingField: 8
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 40
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 103
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 37
+          exponent: 1
+    <Description>k__BackingField: After you critically strike, deal 40% of the crit's
+      damage to all Enemy.
+  - <Level>k__BackingField: 9
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 45
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 103
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 38.5
+          exponent: 1
+    <Description>k__BackingField: After you critically strike, deal 45% of the crit's
+      damage to all Enemy.
+  - <Level>k__BackingField: 10
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 50
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 103
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 40
+          exponent: 1
+    <Description>k__BackingField: After you critically strike, deal 50% of the crit's
+      damage to all Enemy.
+  references:
+    version: 2
+    RefIds:
+    - rid: 5639821872365568409
+      type: {class: LinearMethod, ns: TW.Utility.CustomScaleMethod, asm: Assembly-CSharp}
+      data:
+        <A>k__BackingField: 1500
+        <B>k__BackingField: 25000
+    - rid: 5639821872365568534
+      type: {class: LinearMethod, ns: TW.Utility.CustomScaleMethod, asm: Assembly-CSharp}
+      data:
+        <A>k__BackingField: 5
+        <B>k__BackingField: 0

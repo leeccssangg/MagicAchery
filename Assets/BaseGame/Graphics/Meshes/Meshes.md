@@ -1,0 +1,1 @@
+Stores 3D mesh models for objects in the game.

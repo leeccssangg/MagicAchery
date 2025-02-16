@@ -1,0 +1,26 @@
+20.png
+size:779,779
+filter:Linear,Linear
+pma:true
+Horn R
+bounds:2,6,422,418
+rotate:90
+Layer 11
+bounds:422,34,148,237
+Layer 12
+bounds:202,433,130,213
+Layer 15
+bounds:334,433,129,213
+body
+bounds:466,430,347,311
+rotate:90
+ear
+bounds:572,88,201,183
+leg R
+bounds:422,273,155,237
+rotate:90
+shadow
+bounds:2,648,462,129
+tail
+bounds:2,432,214,198
+rotate:90

@@ -1,0 +1,1 @@
+Holds materials used for rendering objects.

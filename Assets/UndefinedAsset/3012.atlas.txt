@@ -1,0 +1,71 @@
+3012.png
+size:636,636
+filter:Linear,Linear
+pma:true
+3004/axe
+bounds:420,329,122,126
+rotate:90
+3004/axe2
+bounds:548,304,149,83
+rotate:90
+3004/b_foot
+bounds:2,21,71,71
+3004/b_hand
+bounds:75,13,58,79
+3004/b_upperarm
+bounds:138,20,82,112
+3004/body
+bounds:267,288,151,163
+3004/clouth_hip
+bounds:565,166,136,64
+rotate:90
+3004/f_foot
+bounds:550,460,82,75
+rotate:90
+3004/f_hand
+bounds:422,544,90,162
+rotate:90
+3004/head
+bounds:422,455,126,87
+3011_01/Layer 11
+bounds:2,282,152,137
+rotate:90
+3011_01/Layer 12
+bounds:138,134,113,137
+3011_01/Layer 15
+bounds:374,4,141,99
+3011_01/Layer 17
+bounds:496,310,17,27
+rotate:90
+3011_01/Layer 18
+bounds:462,295,32,32
+3011_01/Layer 19
+bounds:525,306,13,21
+3011_01/Layer 5
+bounds:517,8,95,117
+rotate:90
+3011_01/body
+bounds:2,436,263,198
+3011_01/front_claw
+bounds:420,295,32,40
+rotate:90
+3011_01/head
+bounds:267,453,153,181
+3011_01/jaw
+bounds:2,94,186,134
+rotate:90
+3011_01/shadow
+bounds:455,105,171,57
+3011_01/tail
+bounds:253,50,106,119
+rotate:90
+fx/slash/Slash03
+bounds:265,158,128,188
+offsets:27,37,300,293
+rotate:90
+fx/slash/Slash05
+bounds:141,273,122,161
+offsets:33,37,300,293
+fx/slash/Slash07
+bounds:455,164,108,129
+offsets:47,40,300,293

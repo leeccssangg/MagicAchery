@@ -1,0 +1,28 @@
+23.png
+size:743,743
+filter:Linear,Linear
+pma:true
+skin3/body
+bounds:2,102,416,296
+skin3/head idle
+bounds:628,566,175,113
+rotate:90
+skin3/horn R
+bounds:2,400,388,341
+skin3/leg L 1
+bounds:551,239,108,157
+skin3/leg L 2
+bounds:511,558,115,183
+skin3/leg R 1
+bounds:551,398,110,158
+skin3/leg R 2
+bounds:392,556,117,185
+skin3/shadow
+bounds:420,92,462,129
+rotate:90
+skin3/wing L 1
+bounds:551,111,121,126
+skin3/wing R 1
+bounds:2,4,134,96
+skin3/wing R 2
+bounds:138,3,131,97

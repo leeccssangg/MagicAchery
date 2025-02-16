@@ -1,0 +1,24 @@
+07.png
+size:692,692
+filter:Linear,Linear
+pma:true
+skin1/body
+bounds:2,109,377,260
+skin1/head
+bounds:2,371,372,319
+skin1/leg 1 L
+bounds:2,2,105,150
+rotate:90
+skin1/leg 1 R
+bounds:154,2,105,150
+rotate:90
+skin1/leg 2 L
+bounds:376,453,142,237
+skin1/leg 2 R
+bounds:381,12,141,213
+skin1/shadow
+bounds:520,228,462,129
+rotate:90
+skin1/tail
+bounds:381,227,224,82
+rotate:90

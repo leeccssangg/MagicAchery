@@ -1,0 +1,22 @@
+29.png
+size:752,752
+filter:Linear,Linear
+pma:true
+skin1/shadow
+bounds:2,621,462,129
+skin2/bfoot
+bounds:449,273,73,84
+skin2/body
+bounds:466,518,232,260
+rotate:90
+skin2/ffoot
+bounds:524,279,78,78
+skin2/fur
+bounds:596,359,151,157
+skin2/head
+bounds:2,219,445,400
+skin2/wing 1
+bounds:2,2,360,215
+skin2/wing 2
+bounds:364,5,212,230
+rotate:90

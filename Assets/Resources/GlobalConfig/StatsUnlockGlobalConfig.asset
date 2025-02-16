@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 565bc514792b95540817a6abbe94f9cf, type: 3}
+  m_Name: StatsUnlockGlobalConfig
+  m_EditorClassIdentifier: 
+  statUnlocks:
+  - id: 0
+    type: 0
+    cost:
+      <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 30
+          exponent: 0
+  - id: 1
+    type: 1
+    cost:
+      <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 300
+          exponent: 0
+  - id: 2
+    type: 2
+    cost:
+      <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 1.1
+          exponent: 1
+  - id: 3
+    type: 3
+    cost:
+      <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 9
+          exponent: 1
+  - id: 4
+    type: 4
+    cost:
+      <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 50
+          exponent: 1
+  - id: 5
+    type: 5
+    cost:
+      <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 0
+          exponent: 0

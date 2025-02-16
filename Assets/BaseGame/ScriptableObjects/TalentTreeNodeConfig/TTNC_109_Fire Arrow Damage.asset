@@ -1,0 +1,194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c6b4b3ea3c64076b356ecd26ebd88e4, type: 3}
+  m_Name: TTNC_109_Fire Arrow Damage
+  m_EditorClassIdentifier: 
+  <NodeIcon>k__BackingField: {fileID: 21300000, guid: f951beda2c4a0a241977319d47a501f5, type: 3}
+  <NodeId>k__BackingField: 109
+  <NodeName>k__BackingField: Fire Arrow Damage
+  <MaxLevelUpgrade>k__BackingField: 10
+  <StatGain>k__BackingField: 131
+  <StatScaleMethod>k__BackingField:
+    rid: 5639821872365568506
+  <ResourceRequire>k__BackingField: 101
+  <ResourceScaleMethod>k__BackingField:
+    rid: 5639821872365568381
+  <Description>k__BackingField: +{0}% fire arrow damage
+  <RequireNode>k__BackingField: 6c000000
+  <TalentTreeNodeLevelConfigArray>k__BackingField:
+  - <Level>k__BackingField: 0
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 131
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 0
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 101
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 0
+          exponent: 0
+    <Description>k__BackingField: +0% fire arrow damage
+  - <Level>k__BackingField: 1
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 131
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 10
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 101
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 60
+          exponent: 1
+    <Description>k__BackingField: +10% fire arrow damage
+  - <Level>k__BackingField: 2
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 131
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 20
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 101
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 70
+          exponent: 1
+    <Description>k__BackingField: +20% fire arrow damage
+  - <Level>k__BackingField: 3
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 131
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 30
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 101
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 80
+          exponent: 1
+    <Description>k__BackingField: +30% fire arrow damage
+  - <Level>k__BackingField: 4
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 131
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 40
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 101
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 90
+          exponent: 1
+    <Description>k__BackingField: +40% fire arrow damage
+  - <Level>k__BackingField: 5
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 131
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 50
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 101
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 100
+          exponent: 1
+    <Description>k__BackingField: +50% fire arrow damage
+  - <Level>k__BackingField: 6
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 131
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 60
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 101
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 110
+          exponent: 1
+    <Description>k__BackingField: +60% fire arrow damage
+  - <Level>k__BackingField: 7
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 131
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 70
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 101
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 120
+          exponent: 1
+    <Description>k__BackingField: +70% fire arrow damage
+  - <Level>k__BackingField: 8
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 131
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 80
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 101
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 130
+          exponent: 1
+    <Description>k__BackingField: +80% fire arrow damage
+  - <Level>k__BackingField: 9
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 131
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 90
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 101
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 140
+          exponent: 1
+    <Description>k__BackingField: +90% fire arrow damage
+  - <Level>k__BackingField: 10
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 131
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 100
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 101
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 150
+          exponent: 1
+    <Description>k__BackingField: +100% fire arrow damage
+  references:
+    version: 2
+    RefIds:
+    - rid: 5639821872365568381
+      type: {class: LinearMethod, ns: TW.Utility.CustomScaleMethod, asm: Assembly-CSharp}
+      data:
+        <A>k__BackingField: 10000
+        <B>k__BackingField: 50000
+    - rid: 5639821872365568506
+      type: {class: LinearMethod, ns: TW.Utility.CustomScaleMethod, asm: Assembly-CSharp}
+      data:
+        <A>k__BackingField: 10
+        <B>k__BackingField: 0

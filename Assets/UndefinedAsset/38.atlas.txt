@@ -1,0 +1,31 @@
+38.png
+size:949,949
+filter:Linear,Linear
+pma:true
+skin1/shadow
+bounds:347,49,462,129
+rotate:90
+skin4/bfoot
+bounds:853,177,81,92
+rotate:90
+skin4/ffoot
+bounds:853,177,81,92
+rotate:90
+skin4/body
+bounds:478,5,253,223
+rotate:90
+skin4/fur
+bounds:2,35,343,223
+offsets:0,0,343,224
+skin4/head
+bounds:2,513,532,434
+skin4/tail
+bounds:2,288,325,223
+skin4/tail2
+bounds:703,127,148,131
+skin4/wing 1
+bounds:536,542,405,411
+rotate:90
+skin4/wing 2
+bounds:536,260,280,411
+rotate:90

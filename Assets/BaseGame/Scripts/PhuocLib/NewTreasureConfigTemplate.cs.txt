@@ -1,0 +1,15 @@
+using System;
+using UnityEngine;
+
+[CreateAssetMenu(fileName = "#SCRIPTNAME#", menuName = "ScriptableObject/TreasureConfig/#SCRIPTNAME#")]
+public class #SCRIPTNAME# : TreasureConfig
+{
+	public override void IsUseableAbility()
+	{
+		
+	}
+	public override void UseAbility()
+	{
+		
+	}
+}

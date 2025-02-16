@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c01ef3403648f3f4b9c46dade632033b, type: 3}
+  m_Name: TreasureGachaGlobalConfig
+  m_EditorClassIdentifier: 
+  <NumAppearanceProbability>k__BackingField:
+    m_ProbabilityValueList:
+    - m_Object: 10
+      m_Chance: 1
+      m_Percentage: 100
+  <GachaTreasureProbability>k__BackingField:
+    m_ProbabilityValueList:
+    - m_Object:
+        <Type>k__BackingField: 1
+        <RewardAmount>k__BackingField: 1
+        <AcquisitionRate>k__BackingField: 50
+      m_Chance: 50
+      m_Percentage: 44.642857
+    - m_Object:
+        <Type>k__BackingField: 2
+        <RewardAmount>k__BackingField: 1
+        <AcquisitionRate>k__BackingField: 50
+      m_Chance: 30
+      m_Percentage: 26.785715
+    - m_Object:
+        <Type>k__BackingField: 3
+        <RewardAmount>k__BackingField: 1
+        <AcquisitionRate>k__BackingField: 50
+      m_Chance: 20
+      m_Percentage: 17.857143
+    - m_Object:
+        <Type>k__BackingField: 4
+        <RewardAmount>k__BackingField: 1
+        <AcquisitionRate>k__BackingField: 50
+      m_Chance: 10
+      m_Percentage: 8.928572
+    - m_Object:
+        <Type>k__BackingField: 5
+        <RewardAmount>k__BackingField: 1
+        <AcquisitionRate>k__BackingField: 5
+      m_Chance: 2
+      m_Percentage: 1.7857143
+  <StartStage>k__BackingField: 5
+  <NumMythicStoneConvert>k__BackingField: 30

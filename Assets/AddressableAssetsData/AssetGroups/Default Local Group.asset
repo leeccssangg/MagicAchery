@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0b97945e5b027594f936df123cb43b61
+  m_SerializeEntries:
+  - m_GUID: 1c9000ae050b80d408cf10e7703ea3e1
+    m_Address: ModalTreasureDeck
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1fb9113dadd0dae44b839c069681bdf4
+    m_Address: ModalBackdrop
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a9ec9cdc4bf2b64faeafa3440c34b35
+    m_Address: ActivityMapInfo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39320d5882265b245b9b5b1ce464e25a
+    m_Address: ScreenJob
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3aed00bd0c327e44ba20bdc8c91edcc6
+    m_Address: ActivityGiftDetail
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 413e4ce926f3dd9468d4bc5b219105f7
+    m_Address: ScreenTitle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45c59f98720d3ba47b90b3cc59ea9d82
+    m_Address: ModalGachaTreasure
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 465a564accec30247a83c931ed9a3948
+    m_Address: ModalGachaReward
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4979000dd22e37444871aac8638fbf2f
+    m_Address: ActivityAdventureInfo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ded36ae15cc02a4ba90ca70f503998e
+    m_Address: ScreenLoading
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 63b6981a1a6236f45a72cce7068efecd
+    m_Address: ScreenStats
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a3dc4ba865e8124aa4bed0815b70840
+    m_Address: ScreenMainMenuTab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 926600fe7a476464480845636dcbd1c6
+    m_Address: ScreenTalentTree
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d0b16205ea681e4d8ff28cf5c5cd4aa
+    m_Address: ModalTreasureInfo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b27438632029d7a468931de6b60f4a55
+    m_Address: ScreenTreasure
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb390c9523547394b9d4a4934458c3b4
+    m_Address: SheetAchivement
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dfda0ab4ea42fcb44aa67c5b250d8d00
+    m_Address: ModalQuestAchivement
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e8930f53550044b4086ba1280b7f27b6
+    m_Address: SheetDailyQuest
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 667cb025ea0cbb442bef57f99e618d81, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3a209b3e5fe778c4ab4af9a7abbdc102, type: 2}
+    - {fileID: 11400000, guid: 59aff368bdf9a4b419e7ad257a435546, type: 2}

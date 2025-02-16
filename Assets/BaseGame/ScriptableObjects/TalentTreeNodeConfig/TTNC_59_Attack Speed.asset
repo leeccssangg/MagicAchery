@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c6b4b3ea3c64076b356ecd26ebd88e4, type: 3}
+  m_Name: TTNC_59_Attack Speed
+  m_EditorClassIdentifier: 
+  <NodeIcon>k__BackingField: {fileID: 21300000, guid: d47c8ae27792b7a43b7fa1bbd157f9e1, type: 3}
+  <NodeId>k__BackingField: 59
+  <NodeName>k__BackingField: Attack Speed
+  <MaxLevelUpgrade>k__BackingField: 5
+  <StatGain>k__BackingField: 71
+  <StatScaleMethod>k__BackingField:
+    rid: 5639821872365568555
+  <ResourceRequire>k__BackingField: 100
+  <ResourceScaleMethod>k__BackingField:
+    rid: 5639821872365568430
+  <Description>k__BackingField: +{0}% Base Atttack Speed
+  <RequireNode>k__BackingField: 3a000000
+  <TalentTreeNodeLevelConfigArray>k__BackingField:
+  - <Level>k__BackingField: 0
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 71
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 0
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 100
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 0
+          exponent: 0
+    <Description>k__BackingField: +0% Base Atttack Speed
+  - <Level>k__BackingField: 1
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 71
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 10
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 100
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 1
+          exponent: 1
+    <Description>k__BackingField: +10% Base Atttack Speed
+  - <Level>k__BackingField: 2
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 71
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 20
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 100
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 1.5
+          exponent: 1
+    <Description>k__BackingField: +20% Base Atttack Speed
+  - <Level>k__BackingField: 3
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 71
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 30
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 100
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 2
+          exponent: 1
+    <Description>k__BackingField: +30% Base Atttack Speed
+  - <Level>k__BackingField: 4
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 71
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 40
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 100
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 2.5
+          exponent: 1
+    <Description>k__BackingField: +40% Base Atttack Speed
+  - <Level>k__BackingField: 5
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 71
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 50
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 100
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 3
+          exponent: 1
+    <Description>k__BackingField: +50% Base Atttack Speed
+  references:
+    version: 2
+    RefIds:
+    - rid: 5639821872365568430
+      type: {class: LinearMethod, ns: TW.Utility.CustomScaleMethod, asm: Assembly-CSharp}
+      data:
+        <A>k__BackingField: 500
+        <B>k__BackingField: 500
+    - rid: 5639821872365568555
+      type: {class: LinearMethod, ns: TW.Utility.CustomScaleMethod, asm: Assembly-CSharp}
+      data:
+        <A>k__BackingField: 10
+        <B>k__BackingField: 0

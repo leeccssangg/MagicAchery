@@ -1,0 +1,36 @@
+3018_3019.png
+size:967,967
+filter:Linear,Linear
+pma:true
+3019/1
+bounds:843,45,120,181
+offsets:0,0,121,181
+3019/Folder2
+bounds:2,545,515,420
+3019/Layer 1
+bounds:642,228,204,315
+offsets:0,1,204,316
+3019/Layer 2
+bounds:373,186,267,357
+offsets:1,1,269,359
+3019/Layer 3
+bounds:2,51,369,492
+offsets:1,2,371,495
+3019/Layer 4
+bounds:519,545,274,420
+offsets:3,3,279,425
+3019/Layer622
+bounds:373,6,178,240
+rotate:90
+3019/Layer629
+bounds:795,807,170,158
+offsets:1,1,172,160
+3019/Layer630
+bounds:795,558,159,247
+3019/Layer640
+bounds:642,34,199,192
+offsets:1,15,201,208
+shadow
+bounds:848,386,170,56
+offsets:1,1,171,57
+rotate:90

@@ -1,0 +1,22 @@
+28.png
+size:1003,1003
+filter:Linear,Linear
+pma:true
+skin1/shadow
+bounds:2,320,462,129
+skin2/Feet L
+bounds:466,274,152,175
+skin2/Feet R
+bounds:770,78,138,186
+skin2/Wing L 1
+bounds:441,2,262,327
+rotate:90
+skin2/Wing L 2
+bounds:623,604,331,397
+skin2/Wing R 1
+bounds:623,266,328,336
+skin2/Wing R 2
+bounds:2,18,300,437
+rotate:90
+skin2/body
+bounds:2,451,619,550

@@ -1,0 +1,183 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4822108303bfd2438694d64da54cc87, type: 3}
+  m_Name: JobGlobalConfig
+  m_EditorClassIdentifier: 
+  JobConfigs:
+  - Id: 1
+    Name: Herb Gathering
+    Reward:
+      <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 1
+          exponent: 0
+    MaxLevel: 4
+    JobUpgradeRequirement:
+    - StatType: 0
+      Multiplier: 1
+      SideAmount: 4
+    JobEffect: []
+  - Id: 2
+    Name: Farming
+    Reward:
+      <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 3
+          exponent: 0
+    MaxLevel: 4
+    JobUpgradeRequirement:
+    - StatType: 1
+      Multiplier: 2
+      SideAmount: 6
+    JobEffect: []
+  - Id: 3
+    Name: Hut Building
+    Reward:
+      <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 9
+          exponent: 0
+    MaxLevel: 4
+    JobUpgradeRequirement:
+    - StatType: 2
+      Multiplier: 3
+      SideAmount: 10
+    JobEffect: []
+  - Id: 4
+    Name: Forest Patrol
+    Reward:
+      <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 20
+          exponent: 0
+    MaxLevel: 4
+    JobUpgradeRequirement:
+    - StatType: 3
+      Multiplier: 4
+      SideAmount: 20
+    JobEffect: []
+  - Id: 5
+    Name: Deer Hunting
+    Reward:
+      <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 80
+          exponent: 0
+    MaxLevel: 5
+    JobUpgradeRequirement:
+    - StatType: 0
+      Multiplier: 4
+      SideAmount: 40
+    JobEffect: []
+  - Id: 6
+    Name: Mining
+    Reward:
+      <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 225
+          exponent: 0
+    MaxLevel: 5
+    JobUpgradeRequirement:
+    - StatType: 1
+      Multiplier: 2
+      SideAmount: 50
+    JobEffect: []
+  - Id: 7
+    Name: City Watch
+    Reward:
+      <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 500
+          exponent: 0
+    MaxLevel: 5
+    JobUpgradeRequirement:
+    - StatType: 4
+      Multiplier: 4
+      SideAmount: 52
+    JobEffect: []
+  - Id: 8
+    Name: Sharp Shooter
+    Reward:
+      <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 1.5
+          exponent: 1
+    MaxLevel: 5
+    JobUpgradeRequirement:
+    - StatType: 2
+      Multiplier: 5
+      SideAmount: 95
+    JobEffect: []
+  - Id: 9
+    Name: Assasin
+    Reward:
+      <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 4
+          exponent: 1
+    MaxLevel: 4
+    JobUpgradeRequirement:
+    - StatType: 1
+      Multiplier: 5
+      SideAmount: 115
+    JobEffect: []
+  - Id: 10
+    Name: Arena Champion
+    Reward:
+      <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 9
+          exponent: 1
+    MaxLevel: 5
+    JobUpgradeRequirement:
+    - StatType: 0
+      Multiplier: 5
+      SideAmount: 135
+    JobEffect: []
+  - Id: 11
+    Name: Royal Guard
+    Reward:
+      <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 25
+          exponent: 1
+    MaxLevel: 5
+    JobUpgradeRequirement:
+    - StatType: 4
+      Multiplier: 5
+      SideAmount: 135
+    JobEffect: []
+  - Id: 12
+    Name: Dragon Hunter
+    Reward:
+      <ResourceType>k__BackingField: 0
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 75
+          exponent: 1
+    MaxLevel: 4
+    JobUpgradeRequirement:
+    - StatType: 4
+      Multiplier: 5
+      SideAmount: 155
+    JobEffect: []

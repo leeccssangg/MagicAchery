@@ -1,0 +1,20 @@
+02.png
+size:851,851
+filter:Linear,Linear
+pma:true
+skin1/body
+bounds:2,393,484,456
+skin1/eye lid 1
+bounds:2,2,465,389
+skin1/head open
+bounds:488,546,350,303
+skin1/shadow
+bounds:488,82,462,129
+rotate:90
+skin1/wing L 2
+bounds:619,354,190,205
+offsets:0,0,191,205
+rotate:90
+skin1/wing R 2
+bounds:619,92,260,107
+rotate:90

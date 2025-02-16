@@ -1,0 +1,42 @@
+39.png
+size:976,976
+filter:Linear,Linear
+pma:true
+Layer 10 copy
+bounds:669,160,255,294
+rotate:90
+Layer 523
+bounds:727,417,239,263
+Layer 533
+bounds:375,652,350,322
+Layer 534
+bounds:2,2,48,13
+body
+bounds:373,215,294,200
+ear
+bounds:727,682,292,244
+rotate:90
+eye
+bounds:373,512,138,134
+rotate:90
+fur
+bounds:2,654,371,320
+hair
+bounds:2,277,375,238
+rotate:90
+l_arm
+bounds:419,12,136,201
+l_leg
+bounds:2,17,155,258
+r_arm
+bounds:557,22,136,201
+rotate:90
+r_leg
+bounds:159,33,155,258
+rotate:90
+shadow
+bounds:242,190,462,129
+rotate:90
+tail
+bounds:760,29,129,191
+rotate:90

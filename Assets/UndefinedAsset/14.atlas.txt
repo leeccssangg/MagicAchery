@@ -1,0 +1,31 @@
+14.png
+size:588,588
+filter:Linear,Linear
+pma:true
+skin1/Layer 11
+bounds:536,182,50,55
+skin1/Layer 12
+bounds:431,114,123,103
+rotate:90
+skin1/eye 1
+bounds:225,24,92,87
+skin1/eye 2
+bounds:319,19,92,87
+rotate:90
+skin1/eye lid
+bounds:115,24,108,87
+skin1/head
+bounds:2,113,427,342
+skin1/leg 1 L
+bounds:431,239,151,179
+skin1/leg 1 R
+bounds:431,20,92,149
+rotate:90
+skin1/leg 2
+bounds:2,13,98,111
+rotate:90
+skin1/mushroom 2
+bounds:466,420,166,120
+rotate:90
+skin1/shadow
+bounds:2,457,462,129

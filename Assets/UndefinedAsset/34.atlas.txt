@@ -1,0 +1,20 @@
+34.png
+size:826,826
+filter:Linear,Linear
+pma:true
+skin1/shadow
+bounds:695,362,462,129
+rotate:90
+skin3/Feet L
+bounds:638,181,157,165
+skin3/Feet R
+bounds:638,34,145,159
+rotate:90
+skin3/Wing L 1
+bounds:374,23,262,323
+skin3/Wing R 1
+bounds:2,11,335,370
+offsets:0,0,342,370
+rotate:90
+skin3/body
+bounds:2,348,691,476

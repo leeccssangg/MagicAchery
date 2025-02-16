@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c6b4b3ea3c64076b356ecd26ebd88e4, type: 3}
+  m_Name: TTNC_35_Luck Point
+  m_EditorClassIdentifier: 
+  <NodeIcon>k__BackingField: {fileID: 21300000, guid: 2afc74cf36fc2bf429858ba182ea86f0, type: 3}
+  <NodeId>k__BackingField: 35
+  <NodeName>k__BackingField: Luck Point
+  <MaxLevelUpgrade>k__BackingField: 1
+  <StatGain>k__BackingField: 102
+  <StatScaleMethod>k__BackingField:
+    rid: 5639821872365568579
+  <ResourceRequire>k__BackingField: 100
+  <ResourceScaleMethod>k__BackingField:
+    rid: 5639821872365568454
+  <Description>k__BackingField: +{0} luck point.
+  <RequireNode>k__BackingField: 01000000
+  <TalentTreeNodeLevelConfigArray>k__BackingField:
+  - <Level>k__BackingField: 0
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 102
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 0
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 100
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 0
+          exponent: 0
+    <Description>k__BackingField: +0 luck point.
+  - <Level>k__BackingField: 1
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 102
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 1
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 100
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 5
+          exponent: 1
+    <Description>k__BackingField: +1 luck point.
+  references:
+    version: 2
+    RefIds:
+    - rid: 5639821872365568454
+      type: {class: LinearMethod, ns: TW.Utility.CustomScaleMethod, asm: Assembly-CSharp}
+      data:
+        <A>k__BackingField: 5000
+        <B>k__BackingField: 0
+    - rid: 5639821872365568579
+      type: {class: LinearMethod, ns: TW.Utility.CustomScaleMethod, asm: Assembly-CSharp}
+      data:
+        <A>k__BackingField: 0
+        <B>k__BackingField: 1

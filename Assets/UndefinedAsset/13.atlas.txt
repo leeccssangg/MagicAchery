@@ -1,0 +1,20 @@
+13.png
+size:803,803
+filter:Linear,Linear
+pma:true
+skin1/shadow
+bounds:2,35,462,129
+skin2/Body
+bounds:2,438,514,363
+skin2/Feet L
+bounds:623,256,206,178
+rotate:90
+skin2/Feet R
+bounds:466,13,205,178
+skin2/Tail
+bounds:338,193,243,283
+rotate:90
+skin2/Wing L 2
+bounds:518,464,266,337
+skin2/Wing R 2
+bounds:2,166,334,270

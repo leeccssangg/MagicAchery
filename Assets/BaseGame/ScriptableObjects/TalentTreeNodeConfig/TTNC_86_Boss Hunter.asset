@@ -1,0 +1,194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c6b4b3ea3c64076b356ecd26ebd88e4, type: 3}
+  m_Name: TTNC_86_Boss Hunter
+  m_EditorClassIdentifier: 
+  <NodeIcon>k__BackingField: {fileID: 21300000, guid: 9ea9495cf49ef0d438df94088f44d1f8, type: 3}
+  <NodeId>k__BackingField: 86
+  <NodeName>k__BackingField: Boss Hunter
+  <MaxLevelUpgrade>k__BackingField: 10
+  <StatGain>k__BackingField: 93
+  <StatScaleMethod>k__BackingField:
+    rid: 5639821872365568529
+  <ResourceRequire>k__BackingField: 103
+  <ResourceScaleMethod>k__BackingField:
+    rid: 5639821872365568404
+  <Description>k__BackingField: +{0}% physical damge to boss enemy
+  <RequireNode>k__BackingField: 55000000
+  <TalentTreeNodeLevelConfigArray>k__BackingField:
+  - <Level>k__BackingField: 0
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 93
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 0
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 103
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 0
+          exponent: 0
+    <Description>k__BackingField: +0% physical damge to boss enemy
+  - <Level>k__BackingField: 1
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 93
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 25
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 103
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 9
+          exponent: 1
+    <Description>k__BackingField: +25% physical damge to boss enemy
+  - <Level>k__BackingField: 2
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 93
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 40
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 103
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 11
+          exponent: 1
+    <Description>k__BackingField: +40% physical damge to boss enemy
+  - <Level>k__BackingField: 3
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 93
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 55
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 103
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 13
+          exponent: 1
+    <Description>k__BackingField: +55% physical damge to boss enemy
+  - <Level>k__BackingField: 4
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 93
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 70
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 103
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 15
+          exponent: 1
+    <Description>k__BackingField: +70% physical damge to boss enemy
+  - <Level>k__BackingField: 5
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 93
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 85
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 103
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 17
+          exponent: 1
+    <Description>k__BackingField: +85% physical damge to boss enemy
+  - <Level>k__BackingField: 6
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 93
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 100
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 103
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 19
+          exponent: 1
+    <Description>k__BackingField: +100% physical damge to boss enemy
+  - <Level>k__BackingField: 7
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 93
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 115
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 103
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 21
+          exponent: 1
+    <Description>k__BackingField: +115% physical damge to boss enemy
+  - <Level>k__BackingField: 8
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 93
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 130
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 103
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 23
+          exponent: 1
+    <Description>k__BackingField: +130% physical damge to boss enemy
+  - <Level>k__BackingField: 9
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 93
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 145
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 103
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 25
+          exponent: 1
+    <Description>k__BackingField: +145% physical damge to boss enemy
+  - <Level>k__BackingField: 10
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 93
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 160
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 103
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 27
+          exponent: 1
+    <Description>k__BackingField: +160% physical damge to boss enemy
+  references:
+    version: 2
+    RefIds:
+    - rid: 5639821872365568404
+      type: {class: LinearMethod, ns: TW.Utility.CustomScaleMethod, asm: Assembly-CSharp}
+      data:
+        <A>k__BackingField: 2000
+        <B>k__BackingField: 7000
+    - rid: 5639821872365568529
+      type: {class: LinearMethod, ns: TW.Utility.CustomScaleMethod, asm: Assembly-CSharp}
+      data:
+        <A>k__BackingField: 15
+        <B>k__BackingField: 10

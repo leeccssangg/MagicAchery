@@ -1,0 +1,35 @@
+3011.png
+size:473,473
+filter:Linear,Linear
+pma:true
+3011_01/Layer 11
+bounds:2,134,152,137
+3011_01/Layer 12
+bounds:2,19,113,137
+rotate:90
+3011_01/Layer 15
+bounds:156,130,141,99
+rotate:90
+3011_01/Layer 17
+bounds:450,444,17,27
+3011_01/Layer 18
+bounds:365,148,32,32
+3011_01/Layer 19
+bounds:450,429,13,21
+rotate:90
+3011_01/Layer 5
+bounds:141,11,95,117
+3011_01/body
+bounds:2,273,263,198
+3011_01/front_claw
+bounds:411,148,32,40
+rotate:90
+3011_01/head
+bounds:267,318,153,181
+rotate:90
+3011_01/jaw
+bounds:267,182,186,134
+3011_01/shadow
+bounds:238,2,171,57
+3011_01/tail
+bounds:257,61,106,119

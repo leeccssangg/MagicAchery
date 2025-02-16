@@ -1,0 +1,50 @@
+42.png
+size:1208,1208
+filter:Linear,Linear
+pma:true
+Layer 3 copy
+bounds:357,717,352,489
+offsets:1,0,353,490
+Layer 576
+bounds:2,2,102,135
+Layer 586
+bounds:2,2,102,135
+Layer 577
+bounds:965,509,192,227
+offsets:1,0,193,227
+rotate:90
+Layer 580
+bounds:363,555,115,160
+Layer 581
+bounds:106,7,130,190
+rotate:90
+Layer 587
+bounds:965,315,192,227
+offsets:1,0,193,227
+rotate:90
+Layer 590
+bounds:490,22,115,160
+rotate:90
+Layer 591
+bounds:298,7,130,190
+rotate:90
+Layer 594
+bounds:2,673,353,533
+Layer 599
+bounds:2,139,359,532
+offsets:0,0,359,533
+Layer 600
+bounds:711,703,372,455
+offsets:0,0,372,456
+rotate:90
+Layer 601
+bounds:709,439,254,262
+body
+bounds:363,139,404,253
+head
+bounds:769,5,354,308
+shadow
+bounds:711,1077,462,129
+tail
+bounds:490,394,321,217
+rotate:90

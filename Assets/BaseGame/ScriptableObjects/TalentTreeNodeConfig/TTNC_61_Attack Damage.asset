@@ -1,0 +1,194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c6b4b3ea3c64076b356ecd26ebd88e4, type: 3}
+  m_Name: TTNC_61_Attack Damage
+  m_EditorClassIdentifier: 
+  <NodeIcon>k__BackingField: {fileID: 21300000, guid: f3206f163edafe641923d55c7c12ff4a, type: 3}
+  <NodeId>k__BackingField: 61
+  <NodeName>k__BackingField: Attack Damage
+  <MaxLevelUpgrade>k__BackingField: 10
+  <StatGain>k__BackingField: 70
+  <StatScaleMethod>k__BackingField:
+    rid: 5639821872365568553
+  <ResourceRequire>k__BackingField: 100
+  <ResourceScaleMethod>k__BackingField:
+    rid: 1418558227002425350
+  <Description>k__BackingField: +{0} Base Attack Damage
+  <RequireNode>k__BackingField: 3b000000
+  <TalentTreeNodeLevelConfigArray>k__BackingField:
+  - <Level>k__BackingField: 0
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 70
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 0
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 100
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 0
+          exponent: 0
+    <Description>k__BackingField: +0 Base Attack Damage
+  - <Level>k__BackingField: 1
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 70
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 6
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 100
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 1.6
+          exponent: 1
+    <Description>k__BackingField: +6 Base Attack Damage
+  - <Level>k__BackingField: 2
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 70
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 9
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 100
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 1.7
+          exponent: 1
+    <Description>k__BackingField: +9 Base Attack Damage
+  - <Level>k__BackingField: 3
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 70
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 12
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 100
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 1.8
+          exponent: 1
+    <Description>k__BackingField: +12 Base Attack Damage
+  - <Level>k__BackingField: 4
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 70
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 15
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 100
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 1.9
+          exponent: 1
+    <Description>k__BackingField: +15 Base Attack Damage
+  - <Level>k__BackingField: 5
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 70
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 18
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 100
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 2
+          exponent: 1
+    <Description>k__BackingField: +18 Base Attack Damage
+  - <Level>k__BackingField: 6
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 70
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 21
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 100
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 2.1
+          exponent: 1
+    <Description>k__BackingField: +21 Base Attack Damage
+  - <Level>k__BackingField: 7
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 70
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 24
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 100
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 2.2
+          exponent: 1
+    <Description>k__BackingField: +24 Base Attack Damage
+  - <Level>k__BackingField: 8
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 70
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 27
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 100
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 2.3
+          exponent: 1
+    <Description>k__BackingField: +27 Base Attack Damage
+  - <Level>k__BackingField: 9
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 70
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 30
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 100
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 2.4
+          exponent: 1
+    <Description>k__BackingField: +30 Base Attack Damage
+  - <Level>k__BackingField: 10
+    <TalentStatGain>k__BackingField:
+      <StatType>k__BackingField: 70
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 33
+          exponent: 0
+    <GameResourceRequire>k__BackingField:
+      <ResourceType>k__BackingField: 100
+      <ReactiveAmount>k__BackingField:
+        m_Value:
+          coefficient: 2.5
+          exponent: 1
+    <Description>k__BackingField: +33 Base Attack Damage
+  references:
+    version: 2
+    RefIds:
+    - rid: 1418558227002425350
+      type: {class: LinearMethod, ns: TW.Utility.CustomScaleMethod, asm: Assembly-CSharp}
+      data:
+        <A>k__BackingField: 100
+        <B>k__BackingField: 1500
+    - rid: 5639821872365568553
+      type: {class: LinearMethod, ns: TW.Utility.CustomScaleMethod, asm: Assembly-CSharp}
+      data:
+        <A>k__BackingField: 3
+        <B>k__BackingField: 3

@@ -1,0 +1,33 @@
+01.png
+size:724,724
+filter:Linear,Linear
+pma:true
+skin1/body
+bounds:384,306,416,296
+rotate:90
+skin1/head idle
+bounds:376,133,171,110
+rotate:90
+skin1/horn R
+bounds:2,387,380,335
+skin1/leg L 1
+bounds:466,21,110,158
+rotate:90
+skin1/leg L 2
+bounds:2,268,117,185
+rotate:90
+skin1/leg R 1
+bounds:488,146,110,158
+skin1/leg R 2
+bounds:189,268,117,185
+rotate:90
+skin1/shadow
+bounds:2,2,462,129
+skin1/wing L 1
+bounds:2,140,121,126
+skin1/wing R 1
+bounds:626,171,133,96
+rotate:90
+skin1/wing R 2
+bounds:626,38,131,96
+rotate:90

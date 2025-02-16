@@ -1,0 +1,24 @@
+30.png
+size:762,762
+filter:Linear,Linear
+pma:true
+skin3/body
+bounds:466,371,389,291
+rotate:90
+skin3/head
+bounds:2,2,415,367
+offsets:9,0,424,367
+skin3/leg 1 L
+bounds:602,49,155,167
+skin3/leg 1 R
+bounds:419,18,181,198
+skin3/leg 2 L
+bounds:325,457,125,172
+skin3/leg 2 R
+bounds:419,218,151,223
+rotate:90
+skin3/shadow
+bounds:2,631,462,129
+skin3/tail
+bounds:2,382,247,321
+rotate:90

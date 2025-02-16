@@ -1,0 +1,27 @@
+12.png
+size:728,728
+filter:Linear,Linear
+pma:true
+skin1/bfoot
+bounds:432,319,105,130
+rotate:90
+skin1/body
+bounds:432,426,300,218
+rotate:90
+skin1/ffoot
+bounds:466,189,105,128
+skin1/fur
+bounds:573,173,145,121
+rotate:90
+skin1/head
+bounds:2,305,428,421
+skin1/neck 2
+bounds:534,69,100,102
+skin1/neck 3
+bounds:564,320,104,104
+skin1/shadow
+bounds:2,174,462,129
+skin1/wing 1
+bounds:272,2,260,170
+skin1/wing 2
+bounds:2,2,268,170

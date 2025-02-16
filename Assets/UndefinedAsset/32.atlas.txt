@@ -1,0 +1,21 @@
+32.png
+size:827,827
+filter:Linear,Linear
+pma:true
+skin1/body
+bounds:2,466,546,359
+skin1/fur2
+bounds:550,520,202,305
+skin1/furback
+bounds:518,218,191,246
+offsets:3,0,194,246
+skin1/horn R
+bounds:2,42,383,422
+skin1/leg R 1
+bounds:518,92,234,124
+skin1/shadow
+bounds:387,2,462,129
+rotate:90
+skin1/wing R 2
+bounds:711,387,131,96
+rotate:90

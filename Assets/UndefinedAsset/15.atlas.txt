@@ -1,0 +1,22 @@
+15.png
+size:700,700
+filter:Linear,Linear
+pma:true
+skin1/shadow
+bounds:524,236,462,129
+rotate:90
+skin2/body
+bounds:2,109,380,260
+skin2/head
+bounds:2,371,376,327
+skin2/leg 1 L
+bounds:234,2,105,149
+rotate:90
+skin2/leg 1 R
+bounds:384,309,105,150
+skin2/leg 2 L
+bounds:380,461,142,237
+skin2/leg 2 R
+bounds:385,21,141,213
+skin2/tail
+bounds:2,24,230,83

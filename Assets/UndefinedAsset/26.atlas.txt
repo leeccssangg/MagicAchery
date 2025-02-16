@@ -1,0 +1,24 @@
+26.png
+size:753,753
+filter:Linear,Linear
+pma:true
+skin1/body
+bounds:2,388,532,363
+skin1/horn R
+bounds:2,24,394,362
+skin1/leg L 1
+bounds:520,17,133,129
+skin1/leg L 2
+bounds:398,236,120,150
+offsets:0,0,120,157
+skin1/leg R 1
+bounds:520,148,139,139
+skin1/leg R 2
+bounds:398,85,120,149
+offsets:0,0,120,156
+skin1/shadow
+bounds:536,289,462,129
+rotate:90
+skin1/wing R 2
+bounds:655,15,131,96
+rotate:90

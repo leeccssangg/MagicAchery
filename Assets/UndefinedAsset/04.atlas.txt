@@ -1,0 +1,24 @@
+04.png
+size:964,964
+filter:Linear,Linear
+pma:true
+skin1/Feet L
+bounds:816,158,153,122
+rotate:90
+skin1/Feet R
+bounds:483,2,153,122
+skin1/Tail
+bounds:816,313,128,251
+skin1/Wing L 1
+bounds:661,566,258,396
+skin1/Wing L 2
+bounds:483,126,331,397
+skin1/Wing R 1
+bounds:2,36,348,435
+skin1/Wing R 2
+bounds:358,525,301,437
+skin1/body
+bounds:2,473,354,489
+skin1/shadow
+bounds:352,9,462,129
+rotate:90

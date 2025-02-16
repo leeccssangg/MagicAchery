@@ -1,0 +1,31 @@
+40.png
+size:1065,1065
+filter:Linear,Linear
+pma:true
+Layer 11 copy
+bounds:861,769,188,88
+Layer 548
+bounds:875,437,188,88
+Layer 549
+bounds:821,527,204,174
+rotate:90
+Layer 554
+bounds:572,496,247,235
+offsets:0,0,247,236
+Layer 6 copy
+bounds:861,859,204,174
+rotate:90
+body
+bounds:2,482,568,581
+head
+bounds:2,79,407,401
+l_arm
+bounds:411,71,278,319
+rotate:90
+r_arm
+bounds:732,39,259,310
+shadow
+bounds:411,351,462,129
+tail
+bounds:572,733,330,287
+rotate:90

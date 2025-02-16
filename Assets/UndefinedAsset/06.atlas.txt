@@ -1,0 +1,35 @@
+06.png
+size:780,780
+filter:Linear,Linear
+pma:true
+skin1/body
+bounds:2,66,377,205
+offsets:1,0,378,205
+rotate:90
+skin1/ear L
+bounds:567,150,143,139
+skin1/ear R
+bounds:567,5,143,136
+rotate:90
+skin1/fur 2
+bounds:306,376,156,271
+skin1/head
+bounds:466,445,333,312
+rotate:90
+skin1/leg 1 L
+bounds:464,291,152,193
+rotate:90
+skin1/leg 1 R
+bounds:414,96,151,193
+skin1/leg 2 L
+bounds:2,449,150,198
+skin1/leg 2 R
+bounds:154,449,150,198
+skin1/mouth open
+bounds:209,266,181,89
+offsets:0,0,185,89
+rotate:90
+skin1/shadow
+bounds:2,649,462,129
+skin1/tail
+bounds:209,31,203,233

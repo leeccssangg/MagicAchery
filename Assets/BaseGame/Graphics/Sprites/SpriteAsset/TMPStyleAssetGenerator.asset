@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38131fa7f85842e3b422c2b6ea17ac80, type: 3}
+  m_Name: TMPStyleAssetGenerator
+  m_EditorClassIdentifier: 
+  <TMP_StyleSheet>k__BackingField: {fileID: 11400000, guid: f952c082cb03451daed3ee968ac6c63e, type: 2}
+  <TMPStyleConfigs>k__BackingField:
+  - <Style>k__BackingField: Coin
+    <Index>k__BackingField: 0
+  - <Style>k__BackingField: Gem
+    <Index>k__BackingField: 1
+  - <Style>k__BackingField: Ticket
+    <Index>k__BackingField: 2
+  - <Style>k__BackingField: Clover
+    <Index>k__BackingField: 3
+  - <Style>k__BackingField: NormalDrop
+    <Index>k__BackingField: 4
+  - <Style>k__BackingField: RareDrop
+    <Index>k__BackingField: 5
+  - <Style>k__BackingField: EpicDrop
+    <Index>k__BackingField: 6
+  - <Style>k__BackingField: BossDrop
+    <Index>k__BackingField: 7

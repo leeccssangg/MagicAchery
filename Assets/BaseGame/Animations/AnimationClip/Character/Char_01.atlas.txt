@@ -1,0 +1,54 @@
+Char_01.png
+size:1012,504
+filter:Linear,Linear
+pma:true
+Group 3
+bounds:562,131,87,159
+rotate:90
+Group 5 copy
+bounds:2,113,382,389
+Layer 10
+bounds:844,186,39,71
+rotate:90
+Layer 11
+bounds:386,122,174,96
+Layer 12
+bounds:922,253,79,84
+rotate:90
+Layer 13
+bounds:772,180,62,45
+Layer 14
+bounds:2,2,159,109
+Layer 15
+bounds:604,4,70,125
+Layer 16
+bounds:676,6,123,81
+rotate:90
+Layer 17
+bounds:521,7,81,113
+Layer 18
+bounds:329,14,62,97
+Layer 19
+bounds:723,178,47,47
+Layer 20
+bounds:844,22,155,151
+Layer 21
+bounds:723,131,119,42
+Layer 23
+bounds:922,334,168,85
+rotate:90
+Layer 26
+bounds:386,220,257,282
+Layer 27
+bounds:922,175,81,76
+Layer 28
+bounds:645,227,275,275
+Layer 31
+bounds:163,14,97,164
+rotate:90
+Layer 32
+bounds:759,91,38,41
+rotate:90
+Layer 9
+bounds:393,5,115,126
+rotate:90
